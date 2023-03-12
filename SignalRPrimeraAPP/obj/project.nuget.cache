@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lgzX35bTT2fW3jCqK/jDB2DTWG0uS1s/dhnuOJQar0obieQ66P0C+3d1P5/MOCoS+3uBcBx/QNOLWHOPFUkOpA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\SignalRPrimeraAPP\\SignalRPrimeraAPP\\SignalRPrimeraAPP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
